@@ -25,8 +25,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.6993392"
-     inkscape:cx="990.93544"
-     inkscape:cy="1373.4394"
+     inkscape:cx="949.46773"
+     inkscape:cy="1449.2252"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="-8"
@@ -591,8 +591,8 @@
     <rect
        x="54.548237"
        y="260.61935"
-       width="195.96959"
-       height="59.598999"
+       width="301.78377"
+       height="211.33308"
        id="rect11-1-72" />
     <rect
        x="78.571426"
@@ -702,6 +702,72 @@
        width="1067.8241"
        height="184.54597"
        id="rect68-4" />
+    <rect
+       x="78.571426"
+       y="417.85715"
+       width="117.85714"
+       height="87.14286"
+       id="rect213" />
+    <rect
+       x="74.751289"
+       y="177.78685"
+       width="270.72089"
+       height="87.88327"
+       id="rect231" />
+    <rect
+       x="54.548237"
+       y="260.61935"
+       width="195.96959"
+       height="59.598999"
+       id="rect232" />
+    <rect
+       x="1242.6016"
+       y="1555.7543"
+       width="358.91024"
+       height="65.776379"
+       id="rect233" />
+    <rect
+       x="1458"
+       y="1188"
+       width="216"
+       height="53.999998"
+       id="rect234" />
+    <rect
+       x="1296"
+       y="1349.9999"
+       width="432.00001"
+       height="161.99999"
+       id="rect235" />
+    <rect
+       x="1296"
+       y="1349.9999"
+       width="432"
+       height="161.99998"
+       id="rect236" />
+    <rect
+       x="1296"
+       y="1349.9999"
+       width="432.00001"
+       height="161.99999"
+       id="rect237" />
+    <rect
+       x="1296"
+       y="1349.9999"
+       width="432"
+       height="161.99998"
+       id="rect238" />
+    <rect
+       x="162"
+       y="508.57144"
+       width="504.63748"
+       height="379.68963"
+       id="rect257" />
+    <rect
+       x="1296"
+       y="1349.9999"
+       width="432.00001"
+       height="161.99999"
+       id="rect258" />
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -1086,19 +1152,19 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect10-8-42);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-opacity:1"><tspan
            x="74.751953"
            y="210.81833"
-           id="tspan212"><tspan
+           id="tspan210"><tspan
              style="font-weight:bold;font-family:Sans;-inkscape-font-specification:'Sans, Bold'"
              id="tspan131">Item Name</tspan></tspan></text>
       <text
          xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,326.65106,260.89174)"
+         transform="matrix(0.26458333,0,0,0.26458333,326.4857,260.89174)"
          id="text11-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect11-1-72);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-opacity:1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect11-1-72);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-opacity:1"><tspan
            x="54.548828"
-           y="303.08789"
-           id="tspan214"><tspan
+           y="307.80661"
+           id="tspan215"><tspan
              style="font-weight:bold;font-family:Sans;-inkscape-font-specification:'Sans, Bold'"
-             id="tspan213">$9.99</tspan></tspan></text>
+             id="tspan214">$9.99</tspan></tspan></text>
       <g
          id="g271"
          transform="translate(26.280908,24.596671)">
@@ -1117,7 +1183,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect271);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"><tspan
              x="1242.6016"
              y="1588.7851"
-             id="tspan215">Add to cart</tspan></text>
+             id="tspan216">Add to cart</tspan></text>
       </g>
       <text
          xml:space="preserve"
@@ -1126,17 +1192,17 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect265-9-2);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"><tspan
            x="2452.3145"
            y="63.203095"
-           id="tspan221"><tspan
+           id="tspan226"><tspan
    style="fill:#002aff"
-   id="tspan216">Homepage</tspan> <tspan
+   id="tspan217">Homepage</tspan> <tspan
    style="font-weight:normal;-inkscape-font-specification:'Sans, Normal'"
-   id="tspan217">&gt;</tspan> <tspan
+   id="tspan218">&gt;</tspan> <tspan
    style="fill:#002aff"
-   id="tspan218">store </tspan>&gt;<tspan
+   id="tspan219">store </tspan>&gt;<tspan
    style="fill:#002aff"
-   id="tspan219"> Category Name </tspan>&gt;<tspan
+   id="tspan224"> Category Name </tspan>&gt;<tspan
    style="fill:#002aff"
-   id="tspan220"> Item Name</tspan></tspan></text>
+   id="tspan225"> Item Name</tspan></tspan></text>
       <g
          id="g76"
          transform="translate(0,5.2916667)">
@@ -1157,11 +1223,11 @@
              style="font-size:24px;white-space:pre;shape-inside:url(#rect61);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"><tspan
                x="78.572266"
                y="439.0918"
-               id="tspan222">Item
+               id="tspan230">Item
 </tspan><tspan
                x="78.572266"
                y="469.0918"
-               id="tspan223">Image</tspan></text>
+               id="tspan232">Image</tspan></text>
         </g>
         <text
            xml:space="preserve"
@@ -1170,9 +1236,9 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect66);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-opacity:1"><tspan
              x="74.751953"
              y="210.81833"
-             id="tspan225"><tspan
+             id="tspan234"><tspan
                style="font-weight:bold;font-family:Sans;-inkscape-font-specification:'Sans, Bold'"
-               id="tspan224">Item Name</tspan></tspan></text>
+               id="tspan233">Item Name</tspan></tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,406.69626,607.47364)"
@@ -1180,7 +1246,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect67);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-opacity:1"><tspan
              x="54.548828"
              y="298.36917"
-             id="tspan226">$9.99</tspan></text>
+             id="tspan235">$9.99</tspan></text>
         <g
            id="g30"
            transform="matrix(1.1142368,0,0,1.1142368,337.3019,441.37889)"
@@ -1273,54 +1339,54 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect68);display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"><tspan
              x="162"
              y="536.88477"
-             id="tspan228"><tspan
+             id="tspan237"><tspan
                style="font-size:29.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-               id="tspan227">Lorem ipsum, dolor sit amet </tspan></tspan><tspan
+               id="tspan236">Lorem ipsum, dolor sit amet </tspan></tspan><tspan
              x="162"
              y="576.88477"
-             id="tspan230"><tspan
-               style="font-size:29.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-               id="tspan229">consectetur adipisicing elit. </tspan></tspan><tspan
-             x="162"
-             y="616.88477"
-             id="tspan232"><tspan
-               style="font-size:29.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-               id="tspan231">Inventore impedit </tspan></tspan><tspan
-             x="162"
-             y="656.88477"
-             id="tspan234"><tspan
-               style="font-size:29.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-               id="tspan233">quibusdam eos laborum </tspan></tspan><tspan
-             x="162"
-             y="696.88477"
-             id="tspan236"><tspan
-               style="font-size:29.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-               id="tspan235">tenetur laudantium non </tspan></tspan><tspan
-             x="162"
-             y="736.88477"
-             id="tspan238"><tspan
-               style="font-size:29.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-               id="tspan237">modi sit fugiat </tspan></tspan><tspan
-             x="162"
-             y="776.88477"
              id="tspan240"><tspan
                style="font-size:29.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-               id="tspan239">exercitationem sunt facere </tspan></tspan><tspan
+               id="tspan238">consectetur adipisicing elit. </tspan></tspan><tspan
              x="162"
-             y="816.88477"
+             y="616.88477"
              id="tspan242"><tspan
                style="font-size:29.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-               id="tspan241">explicabo error, sapiente </tspan></tspan><tspan
+               id="tspan241">Inventore impedit </tspan></tspan><tspan
              x="162"
-             y="856.88477"
+             y="656.88477"
              id="tspan244"><tspan
                style="font-size:29.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-               id="tspan243">reiciendis ullam alias nulla </tspan></tspan><tspan
+               id="tspan243">quibusdam eos laborum </tspan></tspan><tspan
              x="162"
-             y="896.88477"
+             y="696.88477"
              id="tspan246"><tspan
                style="font-size:29.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-               id="tspan245">dicta.</tspan></tspan></text>
+               id="tspan245">tenetur laudantium non </tspan></tspan><tspan
+             x="162"
+             y="736.88477"
+             id="tspan248"><tspan
+               style="font-size:29.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+               id="tspan247">modi sit fugiat </tspan></tspan><tspan
+             x="162"
+             y="776.88477"
+             id="tspan250"><tspan
+               style="font-size:29.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+               id="tspan249">exercitationem sunt facere </tspan></tspan><tspan
+             x="162"
+             y="816.88477"
+             id="tspan252"><tspan
+               style="font-size:29.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+               id="tspan251">explicabo error, sapiente </tspan></tspan><tspan
+             x="162"
+             y="856.88477"
+             id="tspan254"><tspan
+               style="font-size:29.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+               id="tspan253">reiciendis ullam alias nulla </tspan></tspan><tspan
+             x="162"
+             y="896.88477"
+             id="tspan256"><tspan
+               style="font-size:29.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+               id="tspan255">dicta.</tspan></tspan></text>
         <g
            id="g54"
            transform="translate(26.280908,278.59679)">
@@ -1339,7 +1405,7 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect75);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"><tspan
                x="1242.6016"
                y="1588.7851"
-               id="tspan247">Add to cart</tspan></text>
+               id="tspan259">Add to cart</tspan></text>
         </g>
         <text
            xml:space="preserve"
@@ -1348,17 +1414,17 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect76);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"><tspan
              x="2452.3145"
              y="63.203095"
-             id="tspan253"><tspan
+             id="tspan265"><tspan
    style="fill:#002aff"
-   id="tspan248">Homepage</tspan> <tspan
+   id="tspan260">Homepage</tspan> <tspan
    style="font-weight:normal;-inkscape-font-specification:'Sans, Normal'"
-   id="tspan249">&gt;</tspan> <tspan
+   id="tspan261">&gt;</tspan> <tspan
    style="fill:#002aff"
-   id="tspan250">store </tspan>&gt;<tspan
+   id="tspan262">store </tspan>&gt;<tspan
    style="fill:#002aff"
-   id="tspan251"> Category Name </tspan>&gt;<tspan
+   id="tspan263"> Category Name </tspan>&gt;<tspan
    style="fill:#002aff"
-   id="tspan252"> Item Name</tspan></tspan></text>
+   id="tspan264"> Item Name</tspan></tspan></text>
       </g>
       <g
          id="g211"
@@ -1455,7 +1521,7 @@
            style="font-size:21.3333px;font-family:Sans;-inkscape-font-specification:'Sans, ';white-space:pre;shape-inside:url(#rect77);display:inline;fill:#808080;fill-opacity:1;stroke-linecap:square"><tspan
              x="1458"
              y="1206.875"
-             id="tspan254">(42 reviews)</tspan></text>
+             id="tspan266">(42 reviews)</tspan></text>
       </g>
       <path
          style="display:inline;fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -1464,12 +1530,12 @@
          inkscape:label="fav" />
       <text
          xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,-1.1564891,-11.641666)"
+         transform="matrix(0.26458333,0,0,0.26458333,-1.1564891,-0.52916473)"
          id="text208"
          style="font-size:24px;font-family:Sans;-inkscape-font-specification:'Sans, ';white-space:pre;shape-inside:url(#rect208);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"><tspan
            x="1296"
            y="1371.2344"
-           id="tspan255">Or up to 12 installments of $0.99</tspan></text>
+           id="tspan267">Or up to 12 installments of $0.99</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-1.4248594,70.379158)"
@@ -1477,25 +1543,236 @@
          style="font-size:24px;font-family:Sans;-inkscape-font-specification:'Sans, ';white-space:pre;shape-inside:url(#rect208-2);display:inline;fill:#009905;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"><tspan
            x="1296"
            y="1371.2344"
-           id="tspan256">Available stock</tspan></text>
+           id="tspan268">64 units available in stock</tspan></text>
       <text
          xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,67.206977,70.379158)"
+         transform="matrix(0.26458333,0,0,0.26458333,67.027147,-26.370138)"
          id="text210"
          style="font-size:24px;font-family:Sans;-inkscape-font-specification:'Sans, ';white-space:pre;shape-inside:url(#rect210);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"><tspan
            x="1296"
            y="1371.2344"
-           id="tspan257">Free shipping</tspan></text>
+           id="tspan269">Free shipping
+</tspan><tspan
+           x="1296"
+           y="1401.2344"
+           id="tspan271"><tspan
+             style="fill:#808080"
+             id="tspan270">Arrives today</tspan></tspan></text>
       <text
          xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,-1.4248594,-3.704179)"
+         transform="matrix(0.26458333,0,0,0.26458333,-1.4248594,7.4083213)"
          id="text211"
          style="font-size:24px;font-family:Sans;-inkscape-font-specification:'Sans, ';white-space:pre;shape-inside:url(#rect211);display:inline;fill:#009905;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"><tspan
            x="1296"
            y="1371.2344"
-           id="tspan259"><tspan
+           id="tspan273"><tspan
              style="fill:#002aff"
-             id="tspan258">View pay methods</tspan></tspan></text>
+             id="tspan272">View pay methods</tspan></tspan></text>
+      <g
+         id="g213"
+         transform="matrix(3.1257086,0,0,3.1257086,-40.036801,-37.107881)">
+        <rect
+           style="fill:#b2b2b2;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+           id="rect212"
+           width="42.862499"
+           height="32.937286"
+           x="14.287499"
+           y="100.0125" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.39140103,0,0,0.39140103,-9.955152,-58.803836)"
+           id="text213"
+           style="font-size:24px;white-space:pre;shape-inside:url(#rect213);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"><tspan
+             x="78.572266"
+             y="439.0918"
+             id="tspan274">Item
+</tspan><tspan
+             x="78.572266"
+             y="469.0918"
+             id="tspan275">Image</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-16.063106,334.13693)"
+         id="text221"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect231);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-opacity:1"><tspan
+           x="74.751953"
+           y="210.81833"
+           id="tspan277"><tspan
+             style="font-weight:bold;font-family:Sans;-inkscape-font-specification:'Sans, Bold'"
+             id="tspan276">Item Name</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-10.803136,338.67082)"
+         id="text222"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect232);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-opacity:1"><tspan
+           x="54.548828"
+           y="303.08789"
+           id="tspan279"><tspan
+             style="font-weight:bold;font-family:Sans;-inkscape-font-specification:'Sans, Bold'"
+             id="tspan278">$9.99</tspan></tspan></text>
+      <g
+         id="g223"
+         transform="translate(-311.11817,46.813245)">
+        <rect
+           style="fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+           id="rect222"
+           width="132.45605"
+           height="21.564972"
+           x="315.87222"
+           y="414.24057"
+           ry="2.6483333" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,26.039324,8.3394556)"
+           id="text223"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect233);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"><tspan
+             x="1242.6016"
+             y="1588.7851"
+             id="tspan280">Add to cart</tspan></text>
+      </g>
+      <g
+         id="g228"
+         transform="translate(-337.39908,79.366582)">
+        <g
+           id="g227"
+           transform="matrix(1.1142368,0,0,1.1142368,266.35198,208.54541)"
+           style="stroke-width:0.237457;stroke-dasharray:none">
+          <path
+             sodipodi:type="star"
+             style="fill:#ffff66;fill-opacity:1;stroke:#000000;stroke-width:0.49152;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+             id="path223"
+             inkscape:flatsided="false"
+             sodipodi:sides="5"
+             sodipodi:cx="71.4375"
+             sodipodi:cy="100.01249"
+             sodipodi:r1="7.4036045"
+             sodipodi:r2="3.7018023"
+             sodipodi:arg1="-1.5707963"
+             sodipodi:arg2="-0.94247777"
+             inkscape:rounded="0.16"
+             inkscape:randomized="0"
+             d="m 71.4375,92.608885 c 0.786637,0 1.539463,3.94641 2.175865,4.408783 0.636402,0.462374 4.622297,-0.04115 4.865381,0.706982 0.243084,0.748136 -3.277539,2.68362 -3.520623,3.43176 -0.243084,0.74814 1.467509,4.38335 0.831106,4.84572 -0.636402,0.46237 -3.565093,-2.28784 -4.351729,-2.28784 -0.786637,0 -3.715327,2.75021 -4.35173,2.28784 -0.636402,-0.46237 1.074191,-4.09759 0.831107,-4.84572 -0.243084,-0.74814 -3.763707,-2.683625 -3.520623,-3.43176 0.243084,-0.748136 4.228979,-0.244608 4.865381,-0.706982 0.636403,-0.462373 1.389229,-4.408783 2.175865,-4.408783 z"
+             transform="matrix(0.48310797,0,0,0.48310797,36.925474,51.330226)" />
+          <path
+             sodipodi:type="star"
+             style="fill:#ffff66;fill-opacity:1;stroke:#000000;stroke-width:0.49152;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+             id="path224"
+             inkscape:flatsided="false"
+             sodipodi:sides="5"
+             sodipodi:cx="71.4375"
+             sodipodi:cy="100.01249"
+             sodipodi:r1="7.4036045"
+             sodipodi:r2="3.7018023"
+             sodipodi:arg1="-1.5707963"
+             sodipodi:arg2="-0.94247777"
+             inkscape:rounded="0.16"
+             inkscape:randomized="0"
+             d="m 71.4375,92.608885 c 0.786637,0 1.539463,3.94641 2.175865,4.408783 0.636402,0.462374 4.622297,-0.04115 4.865381,0.706982 0.243084,0.748136 -3.277539,2.68362 -3.520623,3.43176 -0.243084,0.74814 1.467509,4.38335 0.831106,4.84572 -0.636402,0.46237 -3.565093,-2.28784 -4.351729,-2.28784 -0.786637,0 -3.715327,2.75021 -4.35173,2.28784 -0.636402,-0.46237 1.074191,-4.09759 0.831107,-4.84572 -0.243084,-0.74814 -3.763707,-2.683625 -3.520623,-3.43176 0.243084,-0.748136 4.228979,-0.244608 4.865381,-0.706982 0.636403,-0.462373 1.389229,-4.408783 2.175865,-4.408783 z"
+             transform="matrix(0.48310797,0,0,0.48310797,44.065646,51.330226)" />
+          <path
+             sodipodi:type="star"
+             style="fill:#ffff66;fill-opacity:1;stroke:#000000;stroke-width:0.49152;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+             id="path225"
+             inkscape:flatsided="false"
+             sodipodi:sides="5"
+             sodipodi:cx="71.4375"
+             sodipodi:cy="100.01249"
+             sodipodi:r1="7.4036045"
+             sodipodi:r2="3.7018023"
+             sodipodi:arg1="-1.5707963"
+             sodipodi:arg2="-0.94247777"
+             inkscape:rounded="0.16"
+             inkscape:randomized="0"
+             d="m 71.4375,92.608885 c 0.786637,0 1.539463,3.94641 2.175865,4.408783 0.636402,0.462374 4.622297,-0.04115 4.865381,0.706982 0.243084,0.748136 -3.277539,2.68362 -3.520623,3.43176 -0.243084,0.74814 1.467509,4.38335 0.831106,4.84572 -0.636402,0.46237 -3.565093,-2.28784 -4.351729,-2.28784 -0.786637,0 -3.715327,2.75021 -4.35173,2.28784 -0.636402,-0.46237 1.074191,-4.09759 0.831107,-4.84572 -0.243084,-0.74814 -3.763707,-2.683625 -3.520623,-3.43176 0.243084,-0.748136 4.228979,-0.244608 4.865381,-0.706982 0.636403,-0.462373 1.389229,-4.408783 2.175865,-4.408783 z"
+             transform="matrix(0.48310797,0,0,0.48310797,51.205819,51.330226)" />
+          <path
+             sodipodi:type="star"
+             style="fill:#ffff66;fill-opacity:1;stroke:#000000;stroke-width:0.49152;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+             id="path226"
+             inkscape:flatsided="false"
+             sodipodi:sides="5"
+             sodipodi:cx="71.4375"
+             sodipodi:cy="100.01249"
+             sodipodi:r1="7.4036045"
+             sodipodi:r2="3.7018023"
+             sodipodi:arg1="-1.5707963"
+             sodipodi:arg2="-0.94247777"
+             inkscape:rounded="0.16"
+             inkscape:randomized="0"
+             d="m 71.4375,92.608885 c 0.786637,0 1.539463,3.94641 2.175865,4.408783 0.636402,0.462374 4.622297,-0.04115 4.865381,0.706982 0.243084,0.748136 -3.277539,2.68362 -3.520623,3.43176 -0.243084,0.74814 1.467509,4.38335 0.831106,4.84572 -0.636402,0.46237 -3.565093,-2.28784 -4.351729,-2.28784 -0.786637,0 -3.715327,2.75021 -4.35173,2.28784 -0.636402,-0.46237 1.074191,-4.09759 0.831107,-4.84572 -0.243084,-0.74814 -3.763707,-2.683625 -3.520623,-3.43176 0.243084,-0.748136 4.228979,-0.244608 4.865381,-0.706982 0.636403,-0.462373 1.389229,-4.408783 2.175865,-4.408783 z"
+             transform="matrix(0.48310797,0,0,0.48310797,58.345991,51.330226)" />
+          <path
+             sodipodi:type="star"
+             style="fill:#b2b2b2;fill-opacity:1;stroke:#000000;stroke-width:0.49152;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+             id="path227"
+             inkscape:flatsided="false"
+             sodipodi:sides="5"
+             sodipodi:cx="71.4375"
+             sodipodi:cy="100.01249"
+             sodipodi:r1="7.4036045"
+             sodipodi:r2="3.7018023"
+             sodipodi:arg1="-1.5707963"
+             sodipodi:arg2="-0.94247777"
+             inkscape:rounded="0.16"
+             inkscape:randomized="0"
+             d="m 71.4375,92.608885 c 0.786637,0 1.539463,3.94641 2.175865,4.408783 0.636402,0.462374 4.622297,-0.04115 4.865381,0.706982 0.243084,0.748136 -3.277539,2.68362 -3.520623,3.43176 -0.243084,0.74814 1.467509,4.38335 0.831106,4.84572 -0.636402,0.46237 -3.565093,-2.28784 -4.351729,-2.28784 -0.786637,0 -3.715327,2.75021 -4.35173,2.28784 -0.636402,-0.46237 1.074191,-4.09759 0.831107,-4.84572 -0.243084,-0.74814 -3.763707,-2.683625 -3.520623,-3.43176 0.243084,-0.748136 4.228979,-0.244608 4.865381,-0.706982 0.636403,-0.462373 1.389229,-4.408783 2.175865,-4.408783 z"
+             transform="matrix(0.48310797,0,0,0.48310797,65.486164,51.330226)" />
+        </g>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,0,1.6626714)"
+           id="text227"
+           style="font-size:21.3333px;font-family:Sans;-inkscape-font-specification:'Sans, ';white-space:pre;shape-inside:url(#rect234);display:inline;fill:#808080;fill-opacity:1;stroke-linecap:square"><tspan
+             x="1458"
+             y="1206.875"
+             id="tspan281">(42 reviews)</tspan></text>
+      </g>
+      <path
+         style="display:inline;fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 131.12478,386.58361 3.60403,-3.60402 3.60405,3.60402 v 3.60406 l -7.20808,7.20807 -7.2081,-7.20807 v -3.60406 l 3.60405,-3.60402 z"
+         id="path228"
+         inkscape:label="fav" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-338.6348,71.429108)"
+         id="text228"
+         style="font-size:24px;font-family:Sans;-inkscape-font-specification:'Sans, ';white-space:pre;shape-inside:url(#rect235);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"><tspan
+           x="1296"
+           y="1371.2344"
+           id="tspan282">Or up to 12 installments of $0.99</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-338.32785,95.241543)"
+         id="text229"
+         style="font-size:24px;font-family:Sans;-inkscape-font-specification:'Sans, ';white-space:pre;shape-inside:url(#rect236);display:inline;fill:#009905;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"><tspan
+           x="1296"
+           y="1371.2344"
+           id="tspan283">64 units available in stock</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-338.32785,79.366582)"
+         id="text231"
+         style="font-size:24px;font-family:Sans;-inkscape-font-specification:'Sans, ';white-space:pre;shape-inside:url(#rect238);display:inline;fill:#009905;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"><tspan
+           x="1296"
+           y="1371.2344"
+           id="tspan285"><tspan
+             style="fill:#002aff"
+             id="tspan284">View pay methods</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-246.3775,51.232555)"
+         id="text258"
+         style="font-size:24px;font-family:Sans;-inkscape-font-specification:'Sans, ';white-space:pre;shape-inside:url(#rect258);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"><tspan
+           x="1296"
+           y="1371.2344"
+           id="tspan286">Free shipping
+</tspan><tspan
+           x="1296"
+           y="1401.2344"
+           id="tspan288"><tspan
+             style="fill:#808080"
+             id="tspan287">Arrives today</tspan></tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -1504,40 +1781,60 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect68-4);display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="162"
          y="536.88477"
-         id="tspan263"><tspan
+         id="tspan292"><tspan
            style="font-size:29.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-           id="tspan260">Lorem ipsum, dolor sit amet </tspan><tspan
+           id="tspan289">Lorem ipsum, dolor sit amet </tspan><tspan
            style="font-size:29.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-           id="tspan261">consectetur adipisicing elit. </tspan><tspan
+           id="tspan290">consectetur adipisicing elit. </tspan><tspan
            style="font-size:29.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-           id="tspan262">Inventore </tspan></tspan><tspan
+           id="tspan291">Inventore </tspan></tspan><tspan
          x="162"
          y="576.88477"
-         id="tspan268"><tspan
+         id="tspan297"><tspan
            style="font-size:29.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-           id="tspan264">impedit </tspan><tspan
+           id="tspan293">impedit </tspan><tspan
            style="font-size:29.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-           id="tspan265">quibusdam eos laborum </tspan><tspan
+           id="tspan294">quibusdam eos laborum </tspan><tspan
            style="font-size:29.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-           id="tspan266">tenetur laudantium non </tspan><tspan
+           id="tspan295">tenetur laudantium non </tspan><tspan
            style="font-size:29.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-           id="tspan267">modi sit fugiat </tspan></tspan><tspan
+           id="tspan296">modi sit fugiat </tspan></tspan><tspan
          x="162"
          y="616.88477"
-         id="tspan272"><tspan
+         id="tspan301"><tspan
            style="font-size:29.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-           id="tspan269">exercitationem sunt facere </tspan><tspan
+           id="tspan298">exercitationem sunt facere </tspan><tspan
            style="font-size:29.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-           id="tspan270">explicabo error, sapiente </tspan><tspan
+           id="tspan299">explicabo error, sapiente </tspan><tspan
            style="font-size:29.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-           id="tspan271">reiciendis ullam </tspan></tspan><tspan
+           id="tspan300">reiciendis ullam </tspan></tspan><tspan
          x="162"
          y="656.88477"
-         id="tspan275"><tspan
+         id="tspan304"><tspan
            style="font-size:29.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-           id="tspan273">alias nulla </tspan><tspan
+           id="tspan302">alias nulla </tspan><tspan
            style="font-size:29.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-           id="tspan274">dicta.</tspan></tspan></text>
+           id="tspan303">dicta.</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-38.668965,350.60343)"
+       id="text257"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect257);display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="162"
+         y="536.88477"
+         id="tspan306"><tspan
+           style="font-size:29.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan305">Lorem ipsum, dolor sit amet </tspan></tspan><tspan
+         x="162"
+         y="576.88477"
+         id="tspan308"><tspan
+           style="font-size:29.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan307">consectetur adipisicing elit. </tspan></tspan><tspan
+         x="162"
+         y="616.88477"
+         id="tspan310"><tspan
+           style="font-size:29.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+           id="tspan309">Inventore impedit quibusdam eos</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1561,7 +1858,7 @@
          style="font-size:24px;white-space:pre;shape-inside:url(#rect40-5);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-opacity:1"><tspan
            x="74.751953"
            y="199.02148"
-           id="tspan276">Item Name</tspan></text>
+           id="tspan311">Item Name</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-155.1359,-82.644459)"
@@ -1569,7 +1866,7 @@
          style="font-size:24px;white-space:pre;shape-inside:url(#rect41-3);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-opacity:1"><tspan
            x="54.548828"
            y="281.85352"
-           id="tspan277">$9.99</tspan></text>
+           id="tspan312">$9.99</tspan></text>
       <g
          id="g38"
          transform="matrix(0.92085524,0,0,0.92085524,-156.52781,-157.31683)">
@@ -1587,11 +1884,11 @@
            style="font-size:24px;white-space:pre;shape-inside:url(#rect42-8);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"><tspan
              x="78.572266"
              y="439.0918"
-             id="tspan278">Item
+             id="tspan313">Item
 </tspan><tspan
              x="78.572266"
              y="469.0918"
-             id="tspan279">Image</tspan></text>
+             id="tspan314">Image</tspan></text>
       </g>
     </g>
     <g
@@ -1611,7 +1908,7 @@
          style="font-size:24px;white-space:pre;shape-inside:url(#rect10-8);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-opacity:1"><tspan
            x="74.751953"
            y="199.02148"
-           id="tspan280">Item Name</tspan></text>
+           id="tspan315">Item Name</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-95.26292,-159.90283)"
@@ -1619,7 +1916,7 @@
          style="font-size:24px;white-space:pre;shape-inside:url(#rect11-1);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-opacity:1"><tspan
            x="54.548828"
            y="281.85352"
-           id="tspan281">$9.99</tspan></text>
+           id="tspan316">$9.99</tspan></text>
       <g
          id="g23"
          transform="translate(-165.58631,-221.1476)">
@@ -1721,11 +2018,11 @@
            style="font-size:24px;white-space:pre;shape-inside:url(#rect24-0);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"><tspan
              x="78.572266"
              y="439.0918"
-             id="tspan282">Item
+             id="tspan317">Item
 </tspan><tspan
              x="78.572266"
              y="469.0918"
-             id="tspan283">Image</tspan></text>
+             id="tspan318">Image</tspan></text>
       </g>
       <text
          xml:space="preserve"
@@ -1734,10 +2031,10 @@
          style="font-size:21.3333px;white-space:pre;shape-inside:url(#rect26-3);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"><tspan
            x="162"
            y="527.44724"
-           id="tspan284">Lorem ipsum dolor </tspan><tspan
+           id="tspan319">Lorem ipsum dolor </tspan><tspan
            x="162"
            y="554.11386"
-           id="tspan285">sit amet ...</tspan></text>
+           id="tspan320">sit amet ...</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-161.79271,-209.68229)"
@@ -1745,7 +2042,7 @@
          style="font-size:18.6667px;white-space:pre;shape-inside:url(#rect27-6);display:inline;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"><tspan
            x="58.751953"
            y="361.53714"
-           id="tspan286">Category name</tspan></text>
+           id="tspan321">Category name</tspan></text>
     </g>
     <g
        id="g60"
@@ -1764,7 +2061,7 @@
          style="font-size:24px;white-space:pre;shape-inside:url(#rect54);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-opacity:1"><tspan
            x="74.751953"
            y="199.02148"
-           id="tspan287">Item Name</tspan></text>
+           id="tspan322">Item Name</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-266.3201,-112.80967)"
@@ -1772,7 +2069,7 @@
          style="font-size:24px;white-space:pre;shape-inside:url(#rect55);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-opacity:1"><tspan
            x="54.548828"
            y="281.85352"
-           id="tspan288">$9.99</tspan></text>
+           id="tspan323">$9.99</tspan></text>
       <g
          id="g51"
          transform="matrix(0.97707231,0,0,0.97707231,-277.65751,-186.505)">
@@ -1790,11 +2087,11 @@
            style="font-size:24px;white-space:pre;shape-inside:url(#rect56);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"><tspan
              x="78.572266"
              y="439.0918"
-             id="tspan289">Item
+             id="tspan324">Item
 </tspan><tspan
              x="78.572266"
              y="469.0918"
-             id="tspan290">Image</tspan></text>
+             id="tspan325">Image</tspan></text>
       </g>
     </g>
     <g
@@ -1814,7 +2111,7 @@
          style="font-size:24px;white-space:pre;shape-inside:url(#rect69);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-opacity:1"><tspan
            x="74.751953"
            y="199.02148"
-           id="tspan291">Item Name</tspan></text>
+           id="tspan326">Item Name</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-134.6159,-85.084644)"
@@ -1822,7 +2119,7 @@
          style="font-size:24px;white-space:pre;shape-inside:url(#rect70);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-opacity:1"><tspan
            x="54.548828"
            y="281.85352"
-           id="tspan292">$9.99</tspan></text>
+           id="tspan327">$9.99</tspan></text>
       <g
          id="g65"
          transform="translate(-220.05471,-112.2077)">
@@ -1924,11 +2221,11 @@
            style="font-size:24px;white-space:pre;shape-inside:url(#rect71);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"><tspan
              x="78.572266"
              y="439.0918"
-             id="tspan293">Item
+             id="tspan328">Item
 </tspan><tspan
              x="78.572266"
              y="469.0918"
-             id="tspan294">Image</tspan></text>
+             id="tspan329">Image</tspan></text>
       </g>
       <text
          xml:space="preserve"
@@ -1937,10 +2234,10 @@
          style="font-size:21.3333px;white-space:pre;shape-inside:url(#rect72);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"><tspan
            x="162"
            y="527.44724"
-           id="tspan295">Lorem ipsum dolor </tspan><tspan
+           id="tspan330">Lorem ipsum dolor </tspan><tspan
            x="162"
            y="554.11386"
-           id="tspan296">sit amet ...</tspan></text>
+           id="tspan331">sit amet ...</tspan></text>
     </g>
     <g
        id="g83"
@@ -1969,11 +2266,11 @@
            style="font-size:24px;white-space:pre;shape-inside:url(#rect85);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"><tspan
              x="78.572266"
              y="439.0918"
-             id="tspan297">Item
+             id="tspan332">Item
 </tspan><tspan
              x="78.572266"
              y="469.0918"
-             id="tspan298">Image</tspan></text>
+             id="tspan333">Image</tspan></text>
       </g>
       <text
          xml:space="preserve"
@@ -1982,9 +2279,9 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect84);display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-linecap:square;stroke-opacity:1"><tspan
            x="54.548828"
            y="281.85352"
-           id="tspan300"><tspan
+           id="tspan335"><tspan
              style="font-weight:bold;font-family:Sans;-inkscape-font-specification:'Sans, Bold'"
-             id="tspan299">$9.99</tspan></tspan></text>
+             id="tspan334">$9.99</tspan></tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-169.65467,-142.36037)"
@@ -1992,9 +2289,9 @@
          style="font-size:24px;white-space:pre;shape-inside:url(#rect83);display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-linecap:square;stroke-opacity:1"><tspan
            x="74.751953"
            y="199.02148"
-           id="tspan302"><tspan
+           id="tspan337"><tspan
              style="font-weight:bold;font-family:Sans;-inkscape-font-specification:'Sans, Bold'"
-             id="tspan301">Item Name</tspan></tspan></text>
+             id="tspan336">Item Name</tspan></tspan></text>
     </g>
     <g
        id="g252"
@@ -2013,7 +2310,7 @@
          style="font-size:24px;white-space:pre;shape-inside:url(#rect252);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-opacity:1"><tspan
            x="74.751953"
            y="199.02148"
-           id="tspan303">Item Name</tspan></text>
+           id="tspan338">Item Name</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-96.987862,-174.88506)"
@@ -2021,7 +2318,7 @@
          style="font-size:24px;white-space:pre;shape-inside:url(#rect253);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-opacity:1"><tspan
            x="54.548828"
            y="281.85352"
-           id="tspan304">$9.99</tspan></text>
+           id="tspan339">$9.99</tspan></text>
       <g
          id="g248"
          transform="translate(-168.29267,-219.91211)">
@@ -2123,11 +2420,11 @@
            style="font-size:24px;white-space:pre;shape-inside:url(#rect254);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"><tspan
              x="78.572266"
              y="439.0918"
-             id="tspan305">Item
+             id="tspan340">Item
 </tspan><tspan
              x="78.572266"
              y="469.0918"
-             id="tspan306">Image</tspan></text>
+             id="tspan341">Image</tspan></text>
       </g>
       <text
          xml:space="preserve"
@@ -2136,10 +2433,10 @@
          style="font-size:18.6667px;white-space:pre;shape-inside:url(#rect255);shape-padding:0;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"><tspan
            x="162"
            y="525.08792"
-           id="tspan307">Lorem ipsum, dolor sit amet consectetur adipisicing elit. </tspan><tspan
+           id="tspan342">Lorem ipsum, dolor sit amet consectetur adipisicing elit. </tspan><tspan
            x="162"
            y="548.42129"
-           id="tspan308">Inventore impedit quibusdam eos laborum tenetur laudantium ... </tspan></text>
+           id="tspan343">Inventore impedit quibusdam eos laborum tenetur laudantium ... </tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-262.29799,-209.68229)"
@@ -2147,7 +2444,7 @@
          style="font-size:18.6667px;white-space:pre;shape-inside:url(#rect256);display:inline;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"><tspan
            x="58.751953"
            y="361.53714"
-           id="tspan309">Category name</tspan></text>
+           id="tspan344">Category name</tspan></text>
     </g>
   </g>
   <g
@@ -2159,21 +2456,21 @@
        id="g32"
        inkscape:label="original header">
       <rect
-         style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
-         id="rect4"
-         width="142.875"
-         height="9.5249996"
-         x="0"
-         y="0"
-         inkscape:label="header mobile" />
-      <rect
-         style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none"
+         style="fill:#f2f2f2;stroke:#000000;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;fill-opacity:1"
          id="rect4-4"
          width="333.375"
          height="9.5249996"
          x="142.875"
          y="0"
          inkscape:label="header desktop" />
+      <rect
+         style="fill:#f2f2f2;stroke:#000000;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;fill-opacity:1"
+         id="rect4"
+         width="142.875"
+         height="9.5249996"
+         x="0"
+         y="0"
+         inkscape:label="header mobile" />
       <g
          id="g16"
          transform="matrix(0.09470063,0,0,0.11082896,116.29411,-8.0674522)"
@@ -2256,7 +2553,7 @@
          style="font-size:32px;white-space:pre;shape-inside:url(#rect5);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none"><tspan
            x="0"
            y="28.3125"
-           id="tspan310">Stuff Store</tspan></text>
+           id="tspan345">Stuff Store</tspan></text>
       <use
          x="0"
          y="0"
@@ -2287,13 +2584,13 @@
          inkscape:label="nav desktop"><tspan
            x="1242"
            y="21.234375"
-           id="tspan312"><tspan
+           id="tspan347"><tspan
              style="font-weight:normal;-inkscape-font-specification:'Sans, Normal'"
-             id="tspan311">Home  Shop  |</tspan></tspan></text>
+             id="tspan346">Home  Shop  |</tspan></tspan></text>
       <rect
          style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-opacity:1"
          id="rect47"
-         width="53.757114"
+         width="32.489109"
          height="6.7899995"
          x="12.728856"
          y="1.3674998"
@@ -2323,7 +2620,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect52-2);display:inline;fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:2.99324;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"><tspan
              x="18.052734"
              y="78.074219"
-             id="tspan313">Icon</tspan></text>
+             id="tspan348">Icon</tspan></text>
       </g>
       <use
          x="0"
@@ -2333,7 +2630,7 @@
          transform="translate(142.87503)" />
       <g
          id="g53"
-         transform="matrix(0.17197852,0,0,0.17197852,22.079224,-3.2280341)"
+         transform="matrix(0.17197852,0,0,0.17197852,0.91255663,-3.2280341)"
          inkscape:label="magnifier">
         <circle
            style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:5.29167;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
@@ -2368,20 +2665,20 @@
          inkscape:label="placeholder desktop"><tspan
            x="829.35352"
            y="26.402344"
-           id="tspan315"><tspan
+           id="tspan350"><tspan
              style="font-size:18.6667px"
-             id="tspan314">What are you looking for today?</tspan></tspan></text>
+             id="tspan349">What are you looking for today?</tspan></tspan></text>
       <text
          xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,-258.23336,0.82165513)"
+         transform="matrix(0.26458333,0,0,0.26458333,-254.5292,1.2595267)"
          id="text62"
-         style="font-weight:bold;font-size:24px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';white-space:pre;shape-inside:url(#rect62);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square"
+         style="font-weight:bold;font-size:21.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';white-space:pre;shape-inside:url(#rect62);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square"
          inkscape:label="nav mobile"><tspan
            x="1242"
-           y="21.234375"
-           id="tspan317"><tspan
+           y="18.87497"
+           id="tspan352"><tspan
              style="font-weight:normal;-inkscape-font-specification:'Sans, Normal'"
-             id="tspan316">Home Shop |</tspan></tspan></text>
+             id="tspan351">Home Shop |</tspan></tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-203.72925,-0.38188588)"
@@ -2390,15 +2687,15 @@
          inkscape:label="placeholder mobile"><tspan
            x="829.35352"
            y="26.402344"
-           id="tspan319"><tspan
+           id="tspan354"><tspan
              style="font-size:18.6667px"
-             id="tspan318">Search</tspan></tspan></text>
+             id="tspan353">Search</tspan></tspan></text>
       <use
          x="0"
          y="0"
          xlink:href="#g53"
          id="use64"
-         transform="translate(301.62513)" />
+         transform="translate(322.79181)" />
     </g>
     <use
        x="0"
@@ -2506,7 +2803,7 @@
        inkscape:label="homepage"><tspan
          x="648"
          y="-70.249972"
-         id="tspan320">Homepage</tspan></text>
+         id="tspan355">Homepage</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,288.26355,-1.1520476)"
@@ -2515,7 +2812,7 @@
        inkscape:label="store"><tspan
          x="2430"
          y="-16.249972"
-         id="tspan321">Store</tspan></text>
+         id="tspan356">Store</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-201.13294,-8.8194383)"
@@ -2524,7 +2821,7 @@
        inkscape:label="details"><tspan
          x="756"
          y="2035.75"
-         id="tspan322">Item Details</tspan></text>
+         id="tspan357">Item Details</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,264.95813,-8.8194383)"
@@ -2533,7 +2830,7 @@
        inkscape:label="checkout"><tspan
          x="2430"
          y="2035.75"
-         id="tspan323">Checkout</tspan></text>
+         id="tspan358">Checkout</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,21.206973,406.78549)"
@@ -2542,84 +2839,84 @@
        inkscape:label="requisites"><tspan
          x="-1101.0664"
          y="-223.22266"
-         id="tspan324">. a home page and a shop page, which includes your shopping cart
+         id="tspan359">. a home page and a shop page, which includes your shopping cart
 </tspan><tspan
          x="-1101.0664"
          y="-193.22266"
-         id="tspan325">
+         id="tspan360">
 </tspan><tspan
          x="-1101.0664"
          y="-163.22266"
-         id="tspan326">. Let the user navigate between the pages with a navigation bar, </tspan><tspan
+         id="tspan361">. Let the user navigate between the pages with a navigation bar, </tspan><tspan
          x="-1101.0664"
          y="-133.22266"
-         id="tspan327">which will be shown on both pages.
+         id="tspan362">which will be shown on both pages.
 </tspan><tspan
          x="-1101.0664"
          y="-103.22266"
-         id="tspan328">
+         id="tspan363">
 </tspan><tspan
          x="-1101.0664"
          y="-73.222656"
-         id="tspan329">. On the shopping cart page, you should have the same navigation </tspan><tspan
+         id="tspan364">. On the shopping cart page, you should have the same navigation </tspan><tspan
          x="-1101.0664"
          y="-43.222656"
-         id="tspan330">bar that displays the number of items currently in the cart.
+         id="tspan365">bar that displays the number of items currently in the cart.
 </tspan><tspan
          x="-1101.0664"
          y="-13.222656"
-         id="tspan331">
+         id="tspan366">
 </tspan><tspan
          x="-1101.0664"
          y="16.777344"
-         id="tspan332">. You should also have a button next to it where you can go to the </tspan><tspan
+         id="tspan367">. You should also have a button next to it where you can go to the </tspan><tspan
          x="-1101.0664"
          y="46.777344"
-         id="tspan333">cart to checkout and pay
+         id="tspan368">cart to checkout and pay
 </tspan><tspan
          x="-1101.0664"
          y="76.777344"
-         id="tspan334">
+         id="tspan369">
 </tspan><tspan
          x="-1101.0664"
          y="106.77734"
-         id="tspan335">. Build individual card elements for each of your products.
+         id="tspan370">. Build individual card elements for each of your products.
 </tspan><tspan
          x="-1101.0664"
          y="136.77734"
-         id="tspan336">.Display an input field on it, which lets a user manually type in how </tspan><tspan
+         id="tspan371">.Display an input field on it, which lets a user manually type in how </tspan><tspan
          x="-1101.0664"
          y="166.77734"
-         id="tspan337">many items they want to buy.
+         id="tspan372">many items they want to buy.
 </tspan><tspan
          x="-1101.0664"
          y="196.77734"
-         id="tspan338">. Also, add an increment and decrement button next to it for fine-</tspan><tspan
+         id="tspan373">. Also, add an increment and decrement button next to it for fine-</tspan><tspan
          x="-1101.0664"
          y="226.77734"
-         id="tspan339">tuning.
+         id="tspan374">tuning.
 </tspan><tspan
          x="-1101.0664"
          y="256.77734"
-         id="tspan340">
+         id="tspan375">
 </tspan><tspan
          x="-1101.0664"
          y="286.77734"
-         id="tspan341">. You can also display a title for each product as well as an “Add To </tspan><tspan
+         id="tspan376">. You can also display a title for each product as well as an “Add To </tspan><tspan
          x="-1101.0664"
          y="316.77734"
-         id="tspan342">Cart” button.
+         id="tspan377">Cart” button.
 </tspan><tspan
          x="-1101.0664"
          y="346.77734"
-         id="tspan343">
+         id="tspan378">
 </tspan><tspan
          x="-1101.0664"
          y="376.77734"
-         id="tspan344">. Once a user has submitted their order, the amount on the cart </tspan><tspan
+         id="tspan379">. Once a user has submitted their order, the amount on the cart </tspan><tspan
          x="-1101.0664"
          y="406.77734"
-         id="tspan345">itself should adjust accordingly.
+         id="tspan380">itself should adjust accordingly.
 </tspan></text>
   </g>
 </svg>
