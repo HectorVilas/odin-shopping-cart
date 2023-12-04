@@ -24,15 +24,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.49450749"
-     inkscape:cx="984.81825"
-     inkscape:cy="494.43134"
+     inkscape:zoom="0.6993392"
+     inkscape:cx="2617.4709"
+     inkscape:cy="1379.1591"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer3"
      showgrid="true"
      showguides="false">
     <inkscape:grid
@@ -2365,12 +2365,12 @@
          id="g89"
          transform="translate(0,4.2333335)">
         <rect
-           style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+           style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.245505;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
            id="rect14"
-           width="196.42261"
-           height="14.287476"
-           x="699.35968"
-           y="300.03751"
+           width="196.44168"
+           height="12.300138"
+           x="699.35016"
+           y="301.03119"
            ry="0" />
         <text
            xml:space="preserve"
@@ -2936,7 +2936,7 @@
            id="tspan445">Article</tspan></text>
       <text
          xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,-231.66026,-6.9091289)"
+         transform="matrix(0.26458333,0,0,0.26458333,-233.24777,-6.9091289)"
          id="text136"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect288);display:inline;fill:#2d2d2d;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"><tspan
            x="2880.6445"
@@ -2944,7 +2944,7 @@
            id="tspan446">Value</tspan></text>
       <text
          xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,-251.38635,-5.5717428)"
+         transform="matrix(0.26458333,0,0,0.26458333,-254.56137,-5.5717428)"
          id="text140"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect289);display:inline;fill:#2d2d2d;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"><tspan
            x="3050.0039"
@@ -2952,7 +2952,7 @@
            id="tspan447">Quantity</tspan></text>
       <text
          xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,-291.94214,-5.4379009)"
+         transform="matrix(0.26458333,0,0,0.26458333,-295.11716,-5.4379009)"
          id="text273"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect290);display:inline;fill:#2d2d2d;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"><tspan
            x="3324.5195"
@@ -2960,7 +2960,7 @@
            id="tspan448">Subtotal</tspan></text>
       <g
          id="g278"
-         transform="translate(170.84622,-30.466665)"
+         transform="translate(170.84622,-17.565073)"
          style="display:inline">
         <rect
            style="fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
@@ -3101,16 +3101,16 @@
       <g
          id="g325">
         <rect
-           style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+           style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.26458333;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
            id="rect311"
-           width="137.22705"
-           height="14.767805"
-           x="486.71844"
-           y="291.69174"
+           width="137.25323"
+           height="14.712109"
+           x="486.70532"
+           y="293.39841"
            ry="0" />
         <g
            id="g302"
-           transform="matrix(0.89334331,0,0,0.89334331,-175.46539,24.657317)">
+           transform="matrix(0.98790677,0,0,0.98790677,-260.67667,-2.7119476)">
           <rect
              style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.217935;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
              id="rect301"
@@ -3130,7 +3130,7 @@
         </g>
         <text
            xml:space="preserve"
-           transform="matrix(0.26458333,0,0,0.26458333,468.17811,248.68751)"
+           transform="matrix(0.26458333,0,0,0.26458333,468.17811,250.36635)"
            id="text311"
            style="font-size:24px;white-space:pre;shape-inside:url(#rect319);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-opacity:1"><tspan
              x="74.751953"
@@ -3138,7 +3138,7 @@
              id="tspan459">Item Name</tspan></text>
         <text
            xml:space="preserve"
-           transform="matrix(0.26458333,0,0,0.26458333,515.52255,226.77154)"
+           transform="matrix(0.26458333,0,0,0.26458333,513.93504,228.12637)"
            id="text312"
            style="font-size:24px;white-space:pre;shape-inside:url(#rect320);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-opacity:1"><tspan
              x="54.548828"
@@ -3146,7 +3146,7 @@
              id="tspan460">$9.99</tspan></text>
         <g
            id="g318"
-           transform="translate(-10.404875,-19.339008)">
+           transform="translate(-13.579877,-17.66015)">
           <text
              xml:space="preserve"
              transform="matrix(0.26458333,0,0,0.26458333,-234.32916,14.752564)"
@@ -3157,7 +3157,7 @@
                id="tspan461">2</tspan></text>
           <g
              id="g316"
-             transform="matrix(0.89334331,0,0,0.89334331,-140.10681,43.996325)">
+             transform="matrix(0.98790677,0,0,0.98790677,-215.87605,14.948202)">
             <rect
                style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.217935;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
                id="rect315"
@@ -3177,7 +3177,7 @@
           </g>
           <g
              id="g317"
-             transform="matrix(0.89334331,0,0,0.89334331,-159.27742,43.996325)">
+             transform="matrix(0.98790677,0,0,0.98790677,-237.94721,14.948202)">
             <rect
                style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.217935;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
                id="rect316"
@@ -3198,7 +3198,7 @@
         </g>
         <text
            xml:space="preserve"
-           transform="matrix(0.26458333,0,0,0.26458333,575.29639,226.77154)"
+           transform="matrix(0.26458333,0,0,0.26458333,572.12137,228.12637)"
            id="text318"
            style="font-size:24px;white-space:pre;shape-inside:url(#rect325);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-opacity:1"><tspan
              x="54.548828"
@@ -3210,28 +3210,28 @@
          y="0"
          xlink:href="#g325"
          id="use325"
-         transform="translate(0,15.032388)" />
+         transform="translate(0,18.125488)" />
       <use
          x="0"
          y="0"
          xlink:href="#use325"
          id="use326"
-         transform="translate(0,15.032388)" />
+         transform="translate(0,18.125488)" />
       <use
          x="0"
          y="0"
          xlink:href="#use326"
          id="use327"
-         transform="translate(0,14.767792)" />
+         transform="translate(0,18.125488)" />
       <use
          x="0"
          y="0"
          xlink:href="#use327"
          id="use328"
-         transform="translate(0,14.767792)" />
+         transform="translate(0,18.125488)" />
       <g
          id="g277"
-         transform="translate(-261.93762,-2.6458386)">
+         transform="translate(-265.11261,12.37242)">
         <text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,-47.214685,85.780272)"
